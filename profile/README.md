@@ -1,20 +1,22 @@
-# FG-TIDA WG2: <Full name of the Working Group> (<ACRONYM>)
+# FG-TIDA WG2: Identity, Behaviour and Enforcement for AI Agents (IBEA)
 
-<One or two sentences on what this Working Group does.>
+The working group addresses the mismatch between an AI agent's identity, its unpredictable behaviour and the enforcement of the authority it acts under. We observe a direct contradiction between a stable, verifiable identity on the one hand and an intrinsically probabilistic and radically changing behavior of an AI agent on the other hand. Therefore, differently from classical software, we need to accept that a typical, flat identity (e.g., derived from a public key) of an AI agent can say nothing about how the Agent will behave for a given request/task; similarly, the fact that an Agent misbehaved might not be a sufficient reason for action. Overall, it emerges that using a stable identity as a basis for AI Agent authorizations or revocations is not really sound.
+
+In this theme, differently from the state of the art, we suggest studying new ways how a metamorphing entity such as an AI Agent can be represented and handled in the scope of (classical) security policies and security policy enforcement.
 
 ## Charter
-📄 [Web](https://fg-tida-wg2.github.io/wg2-<acronym>-charter/) · 📑 [PDF](https://fg-tida-wg2.github.io/wg2-<acronym>-charter/wg-charter.pdf)
-Source: [`wg2-<acronym>-charter`](https://github.com/fg-tida-wg2/wg2-<acronym>-charter)
+📄 [Web](https://fg-tida-wg2.github.io/wg2-ibea-charter/) · 📑 [PDF](https://fg-tida-wg2.github.io/wg2-ibea-charter/wg-charter.pdf)
+Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 
 ## Specifications
 | Deliverable | Published | Source |
 |---|---|---|
-| <Spec name> | [web](#) · [PDF](#) | [`wg2-<acronym>-<spec-name>`](#) |
+| <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-<spec-name>`](#) |
 
 ## Working group
-- **Chairs:** <names>
-- **Mailing list:** <list / link>
-- **Meetings:** <cadence / calendar link>
+- **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT
+- **Mailing list:** <list / link> TBD
+- **Meetings:** <cadence / calendar link> TBD
 
 ## Contributing
 See `CONTRIBUTING.md` in each repository — open an issue or a pull request; do not push directly to `main`.
