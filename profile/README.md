@@ -9,13 +9,13 @@ In this theme, differently from the state of the art, we suggest studying new wa
 Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 
 ## Specifications
-| Deliverable | Published | Source |
-|---|---|---|
-| IBEA-Problem - WG problem statement, terminology, use and threat cases. <Spec name> | [web](#) · [PDF](#) | | [`wg2-ibea-problem`](#) |
-| IBEA-TR 1.1 - a study on AI Agent internal design and its internal dependencies, formalization of relationships typically encountered in the popular agents, assurances that can be produced in this regard, and the corresponding trust models. <Spec ibea-tr11> | [web](#) · [PDF](#) | [`wg2-ibea-tr11`](#) |
-| IBEA-TR 1.2 - requirements for a naming scheme for AI Agent along with details of corresponding mechanisms capable of formally and deterministically packaging these assurances into an identity string to be used for granting and revoking access rights. <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-tr12`](#) |
-| IBEA-TR 2.1 - study of possibilities how a security policy could be expressed as "an intent" regardless of the involved actors and agents. Understanding of features and limits of such policies. <Spec ibea-tr21> | [web](#) · [PDF](#) | [`wg2-ibea-tr21`](#) |
-| IBEA-TR 2.2 - Security Policy as an intent, requirements on agents capable to enforce it, coexistence with legacy security policies. <Spec ibea-tr22> | [web](#) · [PDF](#) | [`wg2-ibea-tr22`](#) |
+| Deliverable | Description | Published | Source |
+|---|---|---|---|
+| IBEA-Problem | WG problem statement, terminology, use and threat cases. <Spec ibea-problem> | [web](#) · [PDF](#) | | [`wg2-ibea-problem`](#) |
+| IBEA-TR 1.1 | Study on AI Agent internal design and its internal dependencies, formalization of relationships typically encountered in the popular agents, assurances that can be produced in this regard, and the corresponding trust models. <Spec ibea-tr11> | [web](#) · [PDF](#) | [`wg2-ibea-tr11`](#) |
+| IBEA-TR 1.2 | Requirements and solution candidates for a naming scheme for AI Agent along with details of corresponding mechanisms capable of formally and deterministically packaging these assurances into an identity string to be used for granting and revoking access rights. <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-tr12`](#) |
+| IBEA-TR 2.1 | Study of possibilities how a security policy could be expressed as "an intent" regardless of the involved actors and agents. Understanding of features and limits of such policies. <Spec ibea-tr21> | [web](#) · [PDF](#) | [`wg2-ibea-tr21`](#) |
+| IBEA-TR 2.2 | Requirements and solution candidates for Security Policy as an intent, requirements on agents capable to enforce it, coexistence with legacy security policies. <Spec ibea-tr22> | [web](#) · [PDF](#) | [`wg2-ibea-tr22`](#) |
 
 ## Working group
 - **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT
