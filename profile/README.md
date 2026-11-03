@@ -11,7 +11,7 @@ Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 ## Specifications
 | Deliverable | Published | Source |
 |---|---|---|
-| <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-<spec-name>`](#) |
+| A study on AI Agent internal design and its internal dependencies, formalization of relationships typically encountered in the popular agents, assurances that can be produced in this regard, and the corresponding trust models. <Spec name> | [web](#) · [PDF](#) | Requirements for a naming scheme for AI Agent along with details of corresponding mechanisms capable of formally and deterministically packaging these assurances into an identity string to be used for granting and revoking access rights. <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-<spec-name>`](#) || Study of possibilities how a security policy could be expressed as "an intent" regardless of the involved actors and agents. Understanding of features and limits of such policies. <Spec name> | [web](#) · [PDF](#) | [`wg2-ibea-<spec-name>`](#) |
 
 ## Working group
 - **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT
