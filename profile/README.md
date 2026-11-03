@@ -18,7 +18,7 @@ Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 | IBEA-TR 2.2 | Requirements and solution candidates for Security Policy as an intent, requirements on agents capable to enforce it, coexistence with legacy security policies. <Spec ibea-tr22> | [web](#) · [PDF](#) | [`wg2-ibea-tr22`](#) |
 
 ## Working group
-- **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT
+- **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT)
 - **Mailing list:** <list / link> TBD
 - **Meetings:** <cadence / calendar link> TBD
 
