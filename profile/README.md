@@ -20,7 +20,7 @@ Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 | IBEA-FX | Shared evaluation fixtures: versioned cases with expected outcomes and negative controls, used to assess and compare all solution branches against IBEA-REQ. <Spec ibea-fx> | [web](#) · [PDF](#) | [`wg2-ibea-fx`](#) |
 
 ## Working group
-- **Chairs:** Artur Hecker (Huawei Technologies); Cyril Gorlla (CTGT)
+- **Chairs:** Artur Hecker (Huawei Technologies, Germany); Cyril Gorlla (CTGT, USA)
 - **Mailing list:** <list / link> TBD
 - **Meetings:** <cadence / calendar link> TBD
 
