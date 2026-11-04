@@ -21,7 +21,7 @@ Source: [`wg2-ibea-charter`](https://github.com/fg-tida-wg2/wg2-ibea-charter)
 
 ## Working group
 - **Chairs:** Artur Hecker (Huawei Technologies, Germany); Cyril Gorlla (CTGT, USA)
-- **Mailing list:** <list / link> TBD
+- **Mailing list:** fgtidawg2@lists.itu.int
 - **Meetings:** <cadence / calendar link> TBD
 
 ## Contributing
